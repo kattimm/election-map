@@ -48,6 +48,10 @@ header {
   text-align: center;
 }
 
+#title-sparrow {
+  margin-top: 9px;
+}
+
 #img-sparrow,
 #img-alligator {
   width: 100%;
